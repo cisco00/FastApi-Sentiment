@@ -7,6 +7,7 @@ from nltk import word_tokenize
 
 nltk.download("english")
 nltk.download("wordnet")
+nltk.download("puckt")
 
 word_lemmitizer =WordNetLemmatizer()
 
